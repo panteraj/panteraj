@@ -12,5 +12,8 @@ Um pouco sobre mim:
 - ⚡ Vou me aposentar dentro de 5 anos. Mas já quero ter vinculos no mundo da programação civil.
 
   <img  widith="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  
+  <img widith="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+          
    
 [Meu perfil do linkedin](https://www.linkedin.com/in/arnaldo-araujo-jr)

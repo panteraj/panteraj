@@ -7,7 +7,7 @@ Um pouco sobre mim:
 
 - 🔭 Atualmente estou trabalhando no Exército Brasileiro
 - 🌱 Conclui diversos cursos de programação, e atualmente estou formalizando o nível Superior na UNITINS - Tocantins
-  <img widith="100" height="100" src="https://www.unitins.br/nPortal/Content/v3/assets/simbolo.png" />
+  <br><img widith="100" height="100" src="https://www.unitins.br/nPortal/Content/v3/assets/simbolo.png" />
 - 👯 Gosto muito de estar a frente de uma excelente equipe de informática dentro do Exército
 - 🤔 Até agora não tenho em minha carteira uma questão que não consegui resolver na informatica, sei que virá, mais ainda não tenho. 
 - ⚡ Atualmente focado em:

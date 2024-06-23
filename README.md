@@ -1,8 +1,5 @@
 ## Olá Amigos eu sou Arnaldo Junior👋
 
-
-**panteraj/panteraj** is a ✨ _especial repositorio_ ✨
-
 Um pouco sobre mim:
 
 - 🔭 Atualmente estou trabalhando no Exército Brasileiro
